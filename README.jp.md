@@ -12,6 +12,8 @@
 - Docker
 - Streamlit / Streamlit Cloud：インタラクティブなウェブアプリケーションをデプロイし、[Streamlit アプリ](https://webcontentoptimizationpytool-jl7w8ftyltzkvtv86nyhgh.streamlit.app/) 経由でアクセス可能にしました。
 - Google Colab / ngrok：クラウドベースのノートブックを通じてアプリケーションのセットアップと実行を行い、アクセシビリティと協働開発を強化しました。
+- API
+-   Google
 
 ## データベース
 - MySQL
