@@ -13,11 +13,11 @@
 - Streamlit / Streamlit Cloud
   - インタラクティブなウェブアプリケーションをデプロイし、[Streamlit アプリ](https://webcontentoptimizationpytool-jl7w8ftyltzkvtv86nyhgh.streamlit.app/) 経由でアクセス可能にしました。
 - Google Colab / ngrok
-- 
-5. Google Colab / ngrok：クラウドベースのノートブックを通じてアプリケーションのセットアップと実行を行い、アクセシビリティと協働開発を強化しました。
-6. API
-   6-1. Google
-8. Google
+  - クラウドベースのノートブックを通じてアプリケーションのセットアップと実行を行い、アクセシビリティと協働開発を強化しました。
+- API統合
+  - 6-1. Google AI Studio
+    - Google AI StudioからAPIキーを取得し、ウェブアプリケーション内で利用する経験があります。詳細は[API統合ガイド](./API-Integration-Guide.md)をご覧ください。
+
 
 ## データベース
 - MySQL
