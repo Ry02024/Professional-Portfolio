@@ -16,7 +16,7 @@
   - クラウドベースのノートブックを通じてアプリケーションのセットアップと実行を行い、アクセシビリティと協働開発を強化しました。
 - API統合
   - 6-1. Google AI Studio
-    - Google AI StudioからAPIキーを取得し、ウェブアプリケーション内で利用する経験があります。詳細は[API統合ガイド](./API-Integration-Guide.md)をご覧ください。
+    - Google AI StudioからAPIキーを取得し、ウェブアプリケーション内で利用する経験があります。詳細は[社会資源コンシェルジュ.README.md](https://github.com/Ry02024/WebRewriteAdviserJS/blob/main/README.md)をご覧ください。
 
 
 ## データベース
